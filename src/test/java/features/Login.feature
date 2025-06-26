@@ -1,6 +1,6 @@
 Feature: Check Login Functionality
 
-  @tag15
+  @tag1
   Scenario: To check login functionality
     Given user navigate  to webpage
     When user enter proper username and password
