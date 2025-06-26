@@ -11,5 +11,5 @@ Feature: Check Login Functionality
   @Tag2
   Scenario: To check read propertis value
     Given navigate to properties file
-    When enter "<URL>" to the property file
+    When enter "URL" to the property file
     Then I validate URL contains "amazon.in"
