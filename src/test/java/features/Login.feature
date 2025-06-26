@@ -1,7 +1,7 @@
 Feature: Check Login Functionality
 
   @tag1
-  Scenario: To check login functionality
+  Scenario: To check login functionality check
     Given user navigate  to webpage
     When user enter proper username and password
     And user click on login button
